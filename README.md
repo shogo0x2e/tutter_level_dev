@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 開発メモ
+
+* 命名規則はこんな感じらしい
+  * https://zenn.dev/hrtk/scraps/ad027fd2cd50a1
+
+
 ## Getting Started
 
 First, run the development server:
